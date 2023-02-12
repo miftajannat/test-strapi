@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_buttons_buttons",
+  "info": {
+    "displayName": "buttons"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "morning"
+      ]
+    }
+  }
+}
